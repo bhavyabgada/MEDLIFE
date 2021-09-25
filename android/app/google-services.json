@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "394724829198",
+    "project_id": "medstore-1ab70",
+    "storage_bucket": "medstore-1ab70.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:394724829198:android:517042910046b45ebef45f",
+        "android_client_info": {
+          "package_name": "com.sample.MedStore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "394724829198-icv4g3ta6qa48p831oarfmdsbc7i7n5s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5uPi-T0F-7RuQYFkO5AdVAVW3uQ3aGaU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "394724829198-icv4g3ta6qa48p831oarfmdsbc7i7n5s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
